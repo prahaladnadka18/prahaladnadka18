@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/prahaladnadka18" target="blank"><img src="https://img.shields.io/twitter/follow/prahaladnadka18?logo=twitter&style=for-the-badge" alt="prahaladnadka18" /></a> </p>
 
-- 🔭 I’m currently working on **Andriod Weather app**
+-  I’m currently working on **Andriod Weather app**
 
-- 🌱 I’m currently learning **Web development**
+-  I’m currently learning **Web development**
 
-- 📫 How to reach me **nadkaprahalad@gmail.com**
+-  How to reach me **nadkaprahalad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
