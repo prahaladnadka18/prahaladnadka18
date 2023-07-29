@@ -4,21 +4,36 @@
 
 
 
--  I’m currently working on **Andriod Weather app**
+## 🔭 Current Projects
 
--  I’m currently learning **Web development**
+- ANDROID WEATHER APPLICATION
+- SEARCHING ALGORITHM SIMULATION USING OPEN GL
+- DATABASE MANAGEMENT SYSTEM
 
--  How to reach me **nadkaprahalad@gmail.com**
+## 🌱 Currently Learning
 
+- DBMS
+- Web development
+- Android application
+- New programming languages and frameworks
 
+## 🚀 Goals for the Future
 
-<p align="left"> <a href="https://twitter.com/prahaladnadka18" target="blank"><img src="https://img.shields.io/twitter/follow/prahaladnadka18?logo=twitter&style=for-the-badge" alt="prahaladnadka18" /></a> </p>
-<p align="left">
-  <a href="https://www.instagram.com/prahaladnadka18/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40prahaladnadka18-%23E4405F?style=for-the-badge&logo=instagram" alt="Follow @prahaladnadka18 on Instagram" />
-  </a>
-</p>
+- Contribute more to open-source projects
+- Learn cloud computing technologies
+- Improve coding and problem-solving skills
 
+## 💬 Ask me about
+
+- DBMS
+- Web development
+- Software engineering
+
+## 📫 How to reach me
+
+- Email: nadkaprahalad@gmail.com
+- Twitter: [@prahaladnadka18](https://twitter.com/@prahaladnadka18)
+- LinkedIn: [prahaladnadka](https://www.linkedin.com/in/prahaladnadka/)
 
 
 
