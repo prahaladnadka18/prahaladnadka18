@@ -35,6 +35,12 @@
 - Twitter: [@prahaladnadka18](https://twitter.com/@prahaladnadka18)
 - LinkedIn: [prahaladnadka](https://www.linkedin.com/in/prahaladnadka/)
 
+## 💧 Save Water, Save Life 💧
+
+Water is a precious resource that sustains all life on Earth. Let's join hands to conserve it for current and future generations. Every drop counts!
+Let's make a positive impact together. 💙🌍
+
+
 
 
 
