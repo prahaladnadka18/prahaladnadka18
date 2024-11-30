@@ -2,7 +2,7 @@ Here’s a **personal GitHub README** template to showcase yourself and your pro
 
 ---
 
-# **👋 Hi, I'm [Your Name]!**
+# **👋 Hi, I'm PRAHALAD NADKA**
 
 > A passionate [Your Role, e.g., "Full Stack Developer"] with a knack for [Your Key Skills, e.g., "building scalable web applications and solving complex problems."]
 
@@ -10,11 +10,9 @@ Here’s a **personal GitHub README** template to showcase yourself and your pro
 
 ## **🌟 About Me**
 
-- 🎓 **Education:** [Your Degree] in [Your Field], [Your University].  
-- 💻 **Currently Learning:** [What you're learning or improving, e.g., "AI/ML, Spring Boot"].  
-- 👩‍💻 **Experience:** [Your current role or internship, e.g., "Trainee at JSpiders"]  
-- 🌱 **Hobbies:** [Your hobbies, e.g., "Gardening, exploring new technologies."]  
-- ✨ **Fun Fact:** [A fun fact about yourself, e.g., "I can debug faster than I can write code!"]
+- 🎓 **Education:** BE in CS&E, VTU Belagavi.  
+- 💻 **Currently Learning:** Java Full Stack.  
+- 👩‍💻 **Experience:** Trainee @ Jspiders, Basavangudi.
 
 ---
 
@@ -38,7 +36,7 @@ Here’s a **personal GitHub README** template to showcase yourself and your pro
 
 ## **📂 Projects**
 
-### 1. **[Project Name](#)**  
+### 1. **Student Management System**  
    **Description:** [Brief about the project.]  
    **Tech Stack:** [Technologies used.]  
    **Highlights:** [Key features or achievements.]
