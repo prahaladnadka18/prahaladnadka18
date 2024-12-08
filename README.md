@@ -1,10 +1,6 @@
-Here’s a **personal GitHub README** template to showcase yourself and your professional profile:
-
----
-
 # **👋 Hi, I'm PRAHALAD NADKA**
 
-> A passionate [Your Role, e.g., "Full Stack Developer"] with a knack for [Your Key Skills, e.g., "building scalable web applications and solving complex problems."]
+> A passionate Full Java Stack Developer
 
 ---
 
