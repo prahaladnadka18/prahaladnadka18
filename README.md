@@ -19,12 +19,12 @@ Here’s a **personal GitHub README** template to showcase yourself and your pro
 ## **💼 Skills**
 
 ### **Programming Languages**  
-- Java  
+- Core Java, Advance Java  
 - SQL  
 - HTML, CSS, JavaScript  
 
 ### **Technologies & Frameworks**  
-- Hibernate, JSP  
+- Hibernate, JSP, Spring
 - Git, GitHub  
 
 ### **Others**  
