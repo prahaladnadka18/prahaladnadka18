@@ -46,9 +46,8 @@
 
 ## **🌐 Connect With Me**
 
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **GitHub:** [Your GitHub Profile](#)  
-- **Email:** [Your Email Address](#)  
+- **LinkedIn:** [Your LinkedIn Profile](#)    
+- **Email:** nadkaprahalad@gmail.com 
 
 ---
 
