@@ -32,7 +32,7 @@
 
 ## **📂 Projects**
 
-### 1. **Student Management System**  
+### 1. **[Student Management System](#)**  
    **Description:** A web-based application designed to manage student data efficiently, including personal details, academic performance, and attendance records. The system streamlines the process of adding, updating, and retrieving student information for schools and universities. 
    **Tech Stack:** Frontend: HTML, CSS, JavaScript
                    Backend: Java, JSP, JDBC
@@ -56,7 +56,7 @@ Enhanced backend performance using Hibernate for efficient database handling.
 
 ## **🌐 Connect With Me**
 
-- **LinkedIn:** [Your LinkedIn Profile](#)    
+- **LinkedIn:** [www.linkedin.com/in/prahaladnadka](#)    
 - **Email:** nadkaprahalad@gmail.com 
 
 ---
