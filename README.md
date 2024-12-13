@@ -1,6 +1,6 @@
 # **👋 Hi, I'm PRAHALAD NADKA**
 
-> A passionate Full Java Stack Developer
+> A Entry Level Full Java Stack Developer
 
 ---
 
