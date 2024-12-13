@@ -41,10 +41,16 @@
                    Developed an intuitive user interface for seamless navigation.
                    Achieved optimization of database queries, improving system response time by 30%.
 
-### 2. **[Another Project Name](#)**  
-   **Description:** [Brief about the project.]  
-   **Tech Stack:** [Technologies used.]  
-   **Highlights:** [Key features or achievements.]
+### 2. **[Bike Rental Management System](#)**  
+   **Description:** A user-friendly application designed to facilitate bike rentals by allowing customers to view, book, and manage bike rentals online. The system includes features for real-time bike availability tracking, rental pricing, and payment integration. 
+   **Tech Stack:** Frontend: HTML, CSS, JavaScript
+Backend: Java, Hibernate, JDBC
+Database: MySQL
+Additional Tools: Git for version control
+   **Highlights:** Developed a dynamic booking interface with real-time inventory updates.
+Implemented payment gateway integration for secure transactions.
+Automated rental pricing calculations based on rental duration and bike type.
+Enhanced backend performance using Hibernate for efficient database handling.
 
 ---
 
