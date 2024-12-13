@@ -63,9 +63,6 @@ Enhanced backend performance using Hibernate for efficient database handling.
 
 ## **🚀 Goals**
 
-- Short-Term: [Your short-term goals, e.g., "Master full-stack development."]  
-- Long-Term: [Become an entrepreneur in the tech field, creating innovative technology-driven solutions that impact lives and drive progress]
+- Short-Term: Acquire in-depth, ground-level knowledge across technologies and domains to establish a strong foundation for long-term success.  
+- Long-Term: Become an entrepreneur in the tech field, creating innovative technology-driven solutions that impact lives and drive progress.
 
----
-
-Let me know if you'd like help customizing this further! 😊
